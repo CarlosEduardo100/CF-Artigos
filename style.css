@@ -1,0 +1,54 @@
+@media (max-width:800px){
+h2{text-align: center; color: #cecece; font-size: 20px; font-family: 'Rowdies', cursive;}
+.dropdown-menu{text-align: center;}
+.wp{font-family: 'Josefin Sans', sans-serif;}
+.wp img{width: 30px; filter: invert(100%);}
+.wp:hover img{filter: invert(0%);}
+.ag{color:rgba(0,0,0,.2); text-align: center; font-family: 'Josefin Sans', sans-serif;}
+h3{font-family: 'Josefin Sans', sans-serif;color:#e8e8e8; font-size: 20px; text-align: center;}
+.ctl{display: flex;}
+footer{border-top: 2px solid grey;}
+.card-title{text-align:center;}
+.card-text{text-align: center;}
+.navbar{border-bottom:3px solid grey;}
+a{font-size: 18px; text-decoration: none; font-family: 'Josefin Sans', sans-serif;}
+.logotipo img{width:120px; height:60px;}
+a:hover{animation:a .3s linear 1 forwards; background:rgba(0,0,0,.1); border-radius:8px;}
+@keyframes a{
+				100%{font-size:19px; color:white;}
+}
+ul{text-align: center;}
+.animacao{color:#fff; font-family: 'Rowdies', cursive;position: absolute; margin-top:-200px; margin-left: 70px; font-size: 20px; animation: cat 2.3s linear 1 forwards;}
+#carouselExampleCaptions{animation: ca .1s linear 1;}
+@keyframes ca {
+      0%{opacity: 0;}
+      90%{opacity: 0;}
+				100%{opacity: 1;}
+}
+@keyframes cat {
+0%{font-size:22px; margin-left: 70px;}
+      90%{font-size:22.6px; margin-left: 75px; opacity: 1;}
+				100%{opacity: 0; font-size:2px;}
+}
+.TI{text-align: center; font-size: 30px; font-family: 'Rowdies', cursive; color:#aadfff;}
+.card{border:.5px solid #6d6d6d;}
+.card-title{color:#fff; font-family: 'Josefin Sans', sans-serif;}
+.card-text{color:#fff;font-family: 'Josefin Sans', sans-serif;}
+.cb h5{font-size: 25px; text-align: center; color:#fff; text-shadow: 2px 2px black; margin-top:-50px; font-family: 'Rowdies', cursive;}
+.cb h6{font-size:25px; text-shadow: 2px 2px black;}
+.carousel-item img{height:250px; filter: brightness(80%);}
+.texto1 p{font-size: 18px;}
+.texto1{border: 2px solid grey; border-radius: 8px; padding-left: 12px; padding-top: 15px;}
+.texto{padding: 40px;}
+.texto h1{color: #fff; font-size: 25px; text-align: center; font-family: 'Rowdies', cursive;}
+.texto p{color: #d3d3d3; font-size:19px; font-family: 'Josefin Sans', sans-serif;}
+.btn{width: 170px;}
+.ctlr{display: flex;}
+.ctlr img{width:180px; height:200px;}
+.card-title{text-align:center;}
+.card-text{text-align: center;}
+.navbar{border-bottom:3px solid grey;}
+.logotipo img{width:120px; height:60px;}
+}
+
+}
