@@ -4,16 +4,16 @@ h2{text-align: center; color: #cecece; font-size: 20px; font-family: 'Rowdies', 
 .wp{font-family: 'Josefin Sans', sans-serif;}
 .wp img{width: 30px; filter: invert(100%);}
 .wp:hover img{filter: invert(0%);}
-.ag{color:rgba(0,0,0,.2); text-align: center; font-family: 'Josefin Sans', sans-serif;}
-h3{font-family: 'Josefin Sans', sans-serif;color:#e8e8e8; font-size: 20px; text-align: center;}
+.ag{color:rgba(0,0,0,.1); text-align: center; font-family: 'Josefin Sans', sans-serif;}
+h3{font-family: 'Rowdies', cursive;color:#e8e8e8; font-size: 20px; text-align: center;}
 .ctl{display: flex;}
 footer{border-top: 2px solid grey;}
 .card-title{text-align:center;}
 .card-text{text-align: center;}
 .navbar{border-bottom:3px solid grey;}
-a{font-size: 18px; text-decoration: none; font-family: 'Josefin Sans', sans-serif;}
+a{font-size: 18px; text-decoration: none; font-family: 'Rowdies', sans-serif;}
 .logotipo img{width:120px; height:60px;}
-a:hover{animation:a .3s linear 1 forwards; background:rgba(0,0,0,.1); border-radius:8px;}
+.nav-link:hover{animation:a .3s linear 1 forwards; background:rgba(0,0,0,.1); border-radius:8px;}
 @keyframes a{
 				100%{font-size:19px; color:white;}
 }
@@ -45,10 +45,9 @@ ul{text-align: center;}
 .btn{width: 170px;}
 .ctlr{display: flex;}
 .ctlr img{width:180px; height:200px;}
-.card-title{text-align:center;}
+.card{margin-right:4px; margin-left: 4px;}
+.card-title{text-align:center; font-family: 'Rowdies';}
 .card-text{text-align: center;}
 .navbar{border-bottom:3px solid grey;}
-.logotipo img{width:120px; height:60px;}
-}
-
+.logotipo img{width:130px; height:70px;}
 }
