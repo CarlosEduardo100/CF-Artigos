@@ -1,4 +1,5 @@
 @media (max-width:800px){
+.Oculto{visibility: hidden;}
 h2{text-align: center; color: #cecece; font-size: 20px; font-family: 'Rowdies', cursive;}
 .dropdown-menu{text-align: center;}
 .wp{font-family: 'Josefin Sans', sans-serif;}
@@ -31,7 +32,7 @@ ul{text-align: center;}
 				100%{opacity: 0; font-size:2px;}
 }
 .TI{text-align: center; font-size: 30px; font-family: 'Rowdies', cursive; color:#aadfff;}
-.card{border:.5px solid #6d6d6d;}
+.card{border:.4px solid #6d6d6d;}
 .card-title{color:#fff; font-family: 'Josefin Sans', sans-serif;}
 .card-text{color:#fff;font-family: 'Josefin Sans', sans-serif;}
 .cb h5{font-size: 25px; text-align: center; color:#fff; text-shadow: 2px 2px black; margin-top:-50px; font-family: 'Rowdies', cursive;}
@@ -50,4 +51,19 @@ ul{text-align: center;}
 .card-text{text-align: center;}
 .navbar{border-bottom:3px solid grey;}
 .logotipo img{width:130px; height:70px;}
-}
+	.btn{top:88%;}
+	.nota{
+					font-size: 5px;
+	}
+	.Cokie{
+	      align-self: center;
+	      background: #ababab;
+	      padding: 30px;
+	      width: 300px;
+	      border-radius:10px;
+	      bottom: 10px;
+					position: ;
+					color: whitesmoke;
+					animation: ;
+	}
+}	
