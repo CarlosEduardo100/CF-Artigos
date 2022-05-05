@@ -8,17 +8,18 @@
     z-index:999; 
    /* z-index para jogar para frente e sobrepor tudo */
    height: 100vh;
-   width: 1000px;
+   width: 100%;
 }
 #preloader .inner {
     position: absolute;
     top: 50%; /* centralizar a parte interna do preload (onde fica a animação)*/
     left: 50%;
-    transform: translate(-280%, -50%);  
+    transform: translate(-50%, -50%);  
 }
 
 .inner img{
-				width: 500px;
+				width: 400px;
+				padding:  0px 20px;
 }
 .bolas > div {
   display: inline-block;
