@@ -2,7 +2,7 @@
 .Oculto{visibility: hidden;}
 h2{text-align: center; color: #cecece; font-size: 20px; font-family: 'Rowdies', cursive;}
 .dropdown-menu{text-align: center;}
-.wp{font-family: 'Josefin Sans', sans-serif; display: flex; padding:5px 0px 0px 12px; border-radius:20px; width: 200px; height: 50px; background: #50A665; border: none;}
+.wp{font-family: 'Josefin Sans', sans-serif; display: flex; padding:7px 0px 15px 15px; border-radius:20px; width: 200px; height: 50px; background: #50A665; border: none;}
 .wp img{width: 38px;}
 .ag{color:rgba(0,0,0,.1); text-align: center; font-family: 'Josefin Sans', sans-serif;}
 h3{font-family: 'Rowdies', cursive;color:#e8e8e8; font-size: 20px; text-align: center;}
@@ -65,7 +65,7 @@ ul{text-align: center;}
 					color: whitesmoke;
 					animation: ;
 	}
-	.p{margin-top: 6px; margin-left: 15px; color:#fff;}
+	.p{margin-top: 5px; margin-left: 17px; color:#fff;}
 }	
 
 @media (max-width:400px){
