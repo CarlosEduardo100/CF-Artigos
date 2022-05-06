@@ -2,8 +2,7 @@
 .Oculto{visibility: hidden;}
 h2{text-align: center; color: #cecece; font-size: 20px; font-family: 'Rowdies', cursive;}
 .dropdown-menu{text-align: center;}
-.wp{font-family: 'Josefin Sans', sans-serif; display: flex; padding:7px 0px 15px 15px; border-radius:20px; width: 200px; height: 50px; background: #50A665; border: none;}
-.wp img{width: 38px;}
+.wp{width: 80%;}
 .ag{color:rgba(0,0,0,.1); text-align: center; font-family: 'Josefin Sans', sans-serif;}
 h3{font-family: 'Rowdies', cursive;color:#e8e8e8; font-size: 20px; text-align: center;}
 .ctl{display: flex;}
