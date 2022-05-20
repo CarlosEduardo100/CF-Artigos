@@ -14,16 +14,16 @@
     position: absolute;
     top: 50%; /* centralizar a parte interna do preload (onde fica a animação)*/
     left: 50%;
-    transform: translate(-73%, -50%);  
-   /* transform: translate(-83%, -50%);  */
+   /* transform: translate(-73%, -50%);  */
+   transform: translate(-83%, -50%);  
 }
 
 .inner img{
-				width: 400px;
-				padding:  0px 20px;
-				/*width: 120px;
+				/*width: 400px;
+				padding:  0px 20px;*/
+				width: 120px;
 				animation: roda 6s linear infinite reverse;
-				filter: invert(100%);*/
+				filter: invert(100%);
 				}
 				
 @keyframes roda {
