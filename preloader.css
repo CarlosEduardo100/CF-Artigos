@@ -19,14 +19,14 @@
 }
 
 .inner img{
-				/*width: 400px;
-				padding:  0px 20px;*/
-				width: 120px;
+				width: 400px;
+				padding:  0px 20px;
+				/*width: 120px;
 				animation: roda 6s linear infinite reverse;
-				filter: invert(100%);
+				filter: invert(100%);*/
 				}
 				
-@keyframes roda {
+/*@keyframes roda {
 				0%{transform: rotate(360deg);}
 }
 
@@ -39,7 +39,7 @@
       filter: none;
 				width:100%;
 				animation: none;
-}
+}*/
 
 .bolas > div {
   display: inline-block;
